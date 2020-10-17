@@ -3,7 +3,7 @@
 
 <br>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="220"/>
 <h3 align="left">👨‍💻 About Me</h3>
 
   - 🎓 3rd year Computer Science student
@@ -23,10 +23,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fortoszone&show_icons=true&theme=radical">
 </a>
 <a href="lang">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fortoszone&layout=compact&theme=radical">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fortoszone&layout=compact&theme=radical">
 </a>
 
-<br>
+<br><br>
 
 <h3 align="center"> 🤝🏻 Connect with Me </h3>
 
@@ -37,7 +37,7 @@
 &nbsp; <a href="mailto:devanugroho03@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/gmail-512.png"  width="40" /></a>
 </p>
 
-<br><br>
+<br>
 
 <h4 align="center">🙏 Thank you for visiting</h4>
 
