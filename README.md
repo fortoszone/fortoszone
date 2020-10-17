@@ -23,7 +23,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fortoszone&show_icons=true&theme=radical">
 </a>
 <a href="lang">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fortoszone&layout=compact&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fortoszone&layout=compact&theme=radical">
 </a>
 
 <br><br>
@@ -31,7 +31,7 @@
 <h3 align="center"> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-&nbsp; <a href="https://twitter.com/fortoszone" target="_blank" rel="noopener noreferrer"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Twitter-512.png" width="40" /></a>  
+&nbsp; <a href="https://twitter.com/fortoszone" target="_blank" rel="noopener noreferrer"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Twitter-512.png" width="40" /></a>
 &nbsp; <a href="https://www.instagram.com/deva.nugroho/" target="_blank" rel="noopener noreferrer"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-512.png" width="40" /></a>
 &nbsp; <a href="https://www.linkedin.com/in/devanugroho/" target="_blank" rel="noopener noreferrer"><img src="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_LinkedIn-512.png" width="40" /></a>
 &nbsp; <a href="mailto:devanugroho03@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/gmail-512.png"  width="40" /></a>
