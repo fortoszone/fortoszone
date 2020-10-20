@@ -31,10 +31,11 @@
 <h3 align="center"> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-&nbsp; <a href="https://twitter.com/fortoszone" target="_blank" rel="noopener noreferrer"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Twitter-512.png" width="40" /></a>
-&nbsp; <a href="https://www.instagram.com/deva.nugroho/" target="_blank" rel="noopener noreferrer"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-512.png" width="40" /></a>
-&nbsp; <a href="https://www.linkedin.com/in/devanugroho/" target="_blank" rel="noopener noreferrer"><img src="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_LinkedIn-512.png" width="40" /></a>
-&nbsp; <a href="mailto:devanugroho03@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/gmail-512.png"  width="40" /></a>
+&nbsp; <a href="https://dev.to/fortoszone" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white"/></a>
+&nbsp; <a href="medium.com/@fortoszone" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/></a>
+&nbsp; <a href="https://www.instagram.com/deva.nugroho/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+&nbsp; <a href="https://www.linkedin.com/in/devanugroho/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+&nbsp; <a href="mailto:devanugroho03@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <br>
