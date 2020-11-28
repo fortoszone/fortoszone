@@ -32,7 +32,6 @@
 
 <p align="center">
 &nbsp; <a href="https://dev.to/fortoszone" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white"/></a>
-&nbsp; <a href="medium.com/@fortoszone" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/></a>
 &nbsp; <a href="https://www.instagram.com/deva.nugroho/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 &nbsp; <a href="https://www.linkedin.com/in/devanugroho/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 &nbsp; <a href="mailto:devanugroho03@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
