@@ -7,10 +7,8 @@
 <h3 align="left">👨‍💻 About Me</h3>
 
   - 🎓 3rd year Computer Science student
-  - 🤔 I’m currently looking for an internship
-  - 🔭 I’m currently working on something *wink wink*
-  - 🌱 I’m currently learning Internet of Things and Golang
-  - 👯 I’m looking to collaborate on building mobile apps
+  - 🌱 Currently Google Bangkit 2021 Program, Mobile Development Path Participant
+  - 👯 Looking to collaborate on anything mobile development
   - ⚡ Fun fact: I love everythink pink
 
 <br>
