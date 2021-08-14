@@ -1,10 +1,10 @@
-<h3 align="left">Hi there👋</h3>
+<h3 align="left">Hi there 👋</h3>
 
 <a href="stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=fortoszone&show_icons=true&theme=omni">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fortoszone&show_icons=true&theme=omni">
 </a><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fortoszone&label=Profile%20views&color=f64a7d&style=flat" alt="fortoszone" /> </p>
-<h3 align="center"> 🤝🏻 Connect with Me </h3>
+<h3 align="center"> 🤝🏻  Connect with Me </h3>
 <p align="center">
 &nbsp; <a href="https://dev.to/fortoszone" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white"/></a>
 &nbsp; <a href="https://www.linkedin.com/in/devanugroho/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
